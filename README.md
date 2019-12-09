@@ -10,3 +10,6 @@ In this problem set, you will modify your trialloops solution from the last prob
 This problem set will be an individual assignment but definitely feel free to work together!
 
 We've extended the CoderIngredients.py file from the last problem set to incorporate the functionality we discussed in lecture 6. You'll find this extended file here in this repository.
+
+3
+Note: I've changed my key responses to align with the sound onset so that the k ey onset can be recorded for accuracy. 
